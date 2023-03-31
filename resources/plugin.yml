@@ -1,0 +1,7 @@
+name: SimplyChatManager
+version: '${project.version}'
+main: simplychatmanager.other.MainSimplyChat
+author: Avzti
+api-version: 1.19
+commands:
+  chat:

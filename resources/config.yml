@@ -1,0 +1,12 @@
+chat-config:
+  chat-clear-message: '&7Chat has been &8cleared&7.'
+  chat-on-message: '&aChat is now &2on&a.'
+  chat-off-message: '&cChat is now &4disabled&c.'
+  chat-already-off: '&cChat is already &4off'
+  chat-already-on: '&CChat is already &aon&c.'
+  permission: 'simplyChat.use'
+  permission-write-when-off: 'simplyChat.write'
+  message-fail: '&cChat is currently &4disabled&c.'
+  permission-message: '&cYou don''t have permission'
+  message-use: '&cPlease use: /chat [on/off/clear]'
+  is-muted: false #!change only when chat is bugged
